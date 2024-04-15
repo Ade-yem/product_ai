@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+lxml @ file:///home/builder/.termux-build/python-lxml/src
+numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-1.26.4-cp311-cp311-linux_aarch64.whl
+pandas @ file:///home/builder/.termux-build/python-pandas/src/dist/pandas-2.2.2-cp311-cp311-linux_aarch64.whl
+python-dateutil==2.9.0.post0
+pytz==2024.1
+requests==2.31.0
+six==1.16.0
+soupsieve==2.5
+tzdata==2024.1
+urllib3==2.2.1
